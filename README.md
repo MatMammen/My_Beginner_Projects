@@ -1,2 +1,2 @@
-# My_Beginner_Projects
+# Python Projects
 Practical Python Projects
