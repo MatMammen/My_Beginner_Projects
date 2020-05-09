@@ -1,2 +1,2 @@
 # Python Projects
-Practical Python Projects
+Simple Stuff
